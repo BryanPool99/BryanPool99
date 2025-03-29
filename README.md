@@ -1,5 +1,17 @@
 # 💫 About Me:
-I’m currently learning Angular,Ionic,Spring Boot Webflux<br>All of my projects are available at https://portfolio-bryan-arredondo.vercel.app/
+Systems Engineer graduated from the Universidad Tecnológica del Perú (UTP).
+With +2 years of experience in Full Stack development, excelling in:
+● Building scalable architectures with Java Spring Boot, Angular and.
+Microservices.
+● Development of frontend components with Angular 16, React, HTML5, CSS3 and.
+JavaScript.
+● Implementation of reactive solutions with WebFlux and relational databases (PostgreSQL, PostgreSQL
+relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
+● Optimization of web performance and usability, achieving improvements of up to 20% in
+key metrics.
+Teamwork skills, effective communication and results oriented.
+results.
+I’m currently learning Angular,Ionic,all of my projects are available at https://portfolio-bryan-arredondo.vercel.app/
 
 
 ## 🌐 Socials:
