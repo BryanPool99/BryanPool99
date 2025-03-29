@@ -1,18 +1,19 @@
 # 💫 About Me:
-Systems Engineer graduated from the Universidad Tecnológica del Perú (UTP).
-With +2 years of experience in Full Stack development, excelling in:
-● Building scalable architectures with Java Spring Boot, Angular and.
-Microservices.
-● Development of frontend components with Angular 16, React, HTML5, CSS3 and.
-JavaScript.
-● Implementation of reactive solutions with WebFlux and relational databases (PostgreSQL, PostgreSQL
-relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
-● Optimization of web performance and usability, achieving improvements of up to 20% in
-key metrics.
-Teamwork skills, effective communication and results oriented.
-results.
-I’m currently learning Angular,Ionic,all of my projects are available at https://portfolio-bryan-arredondo.vercel.app/
+Graduated from the Universidad Tecnológica del Perú (UTP), with +2 years of experience in Full Stack development, excelling in:
 
+- **Building scalable architectures** with Java Spring Boot, Angular, and Microservices.
+- **Development of frontend components** with Angular 16, React, HTML5, CSS3, and JavaScript.
+- **Implementation of reactive solutions** with WebFlux and relational databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB).
+- **Optimization of web performance and usability**, achieving improvements of up to 20% in key metrics.
+
+Skills:
+- Teamwork skills
+- Effective communication
+- Results-oriented
+
+I'm currently learning Angular and Ionic.
+
+You can find all of my projects at: [https://portfolio-bryan-arredondo.vercel.app/](https://portfolio-bryan-arredondo.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-pool-arredondo-ovalle) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bryanpool99) 
