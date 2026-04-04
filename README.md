@@ -43,3 +43,6 @@ You can find all of my projects at: https://portfolio-bryan-arredondo.vercel.app
 <a target="_blank" href="https://www.facebook.com/BryanDev0199" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.youtube.com/@BryanDev0199" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanPool99&" alt="BryanPool99" /></p>
+
+
+
