@@ -1,5 +1,32 @@
-# 💫 About Me:
-Hi 👋, I'm Bryan Arredondo a Fullstack Developer<br>Graduated from the Universidad Tecnológica del Perú (UTP),<br> with +2 years of experience in Full Stack development, excelling in: <br>Building scalable architectures with Java Spring Boot, Angular,<br> and Microservices. Development of frontend components <br>with Angular 16, React, HTML5, CSS3, and JavaScript.<br> Implementation of reactive solutions with WebFlux and <br>relational databases (PostgreSQL, MySQL) and <br>NoSQL databases (MongoDB). <br>Optimization of web performance and usability,<br> achieving improvements of up to 20% in key metrics. <br>Skills: Teamwork skills Effective communication Results-oriented I'm<br> currently learning Ionic.<br>You can find all of my projects at: <br>https://portfolio-bryan-arredondo.vercel.app/
+# 💫 About Me
+
+### Hi 👋, I'm Bryan Arredondo
+**Fullstack Developer** | **Java & Angular Specialist**
+
+Graduado de la **Universidad Tecnológica del Perú (UTP)**, cuento con **+2 años de experiencia** desarrollando soluciones escalables y eficientes. Me especializo en crear arquitecturas modernas y optimizar el rendimiento web.
+
+---
+
+### 🛠️ Technical Stack
+
+* **Backend:** Java (Spring Boot, Spring WebFlux), Microservicios.
+* **Frontend:** Angular (v16+), React, HTML5, CSS3, JavaScript (ES6+).
+* **Databases:** PostgreSQL, MySQL, MongoDB.
+* **Optimization:** Mejora de métricas de rendimiento y usabilidad en hasta un **20%**.
+
+### 🚀 Soft Skills & Current Learning
+
+* **Skills:** Comunicación efectiva, trabajo en equipo y enfoque en resultados.
+* **Learning:** Actualmente profundizando en el desarrollo móvil con **Ionic**.
+
+---
+
+### 📂 Projects & Links
+
+🌎 **Portfolio:** [portfolio-bryan-arredondo.vercel.app](https://portfolio-bryan-arredondo.vercel.app/)  
+🔗 **Connect with me:** [LinkedIn](https://linkedin.com/in/bryan-arredondo)
+
+---
 
 
 ## 🌐 Socials:
