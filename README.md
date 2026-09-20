@@ -11,7 +11,7 @@ Graduado de la **Universidad Tecnológica del Perú (UTP)**, cuento con **+2 añ
 
 * **Backend:** Java (Spring Boot, Spring WebFlux), Microservicios.
 * **Frontend:** Angular (v16+), React, HTML5, CSS3, JavaScript (ES6+).
-* **Databases:** PostgreSQL, MySQL, MongoDB.
+* **Databases:** PostgreSQL, MySQL, Oracle, MongoDB.
 * **Optimization:** Mejora de métricas de rendimiento y usabilidad en hasta un **20%**.
 
 ### 🚀 Soft Skills & Current Learning
