@@ -1,6 +1,6 @@
 # 💫 About Me
 
-### Hi 👋, I'm Bryan Arredondo
+### Hi 👋, I'm Bryan Arredondo 
 **Fullstack Developer** | **Java & Angular Specialist**
 
 Graduado de la **Universidad Tecnológica del Perú (UTP)**, cuento con **+2 años de experiencia** desarrollando soluciones escalables y eficientes. Me especializo en crear arquitecturas modernas y optimizar el rendimiento web.
