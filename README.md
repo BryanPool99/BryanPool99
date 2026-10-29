@@ -17,7 +17,7 @@ Graduado de la **Universidad Tecnológica del Perú (UTP)**, cuento con **+2 añ
 ### 🚀 Soft Skills & Current Learning
 
 * **Skills:** Comunicación efectiva, trabajo en equipo y enfoque en resultados.
-* **Learning:** Actualmente profundizando en el desarrollo móvil con **Ionic**.
+* **Learning:** Actualmente profundizando en el desarrollo móvil con **Dart(Flutter)**.
 
 ---
 
